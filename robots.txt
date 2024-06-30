@@ -1,0 +1,4 @@
+Sitemap: add sitemap link here
+
+User-agent: *
+Disallow: /api
